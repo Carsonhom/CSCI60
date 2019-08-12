@@ -1,0 +1,13 @@
+0
+1
+2
+3
+4
+5xxxx
+6xxxxxxxx
+7
+8x
+9
+10xx
+What score would you like to check?: 10
+ Emma Watson,  Anna Karenina, 

@@ -1,0 +1,8 @@
+Carsons-MacBook-Pro:llbagiterator Carson$ ./a.out
+(1, 0x7fcd0b403250), (7, 0x7fcd0b403240), (4, 0x0), 
+1
+7
+4
+1
+7
+4

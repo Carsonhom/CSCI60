@@ -1,0 +1,3 @@
+Carsons-MacBook-Pro:hw9 Carson$ ./a.out
+(1, 0x7fdedb403290), (7, 0x7fdedb4032a0), (2, 0x7fdedb4032b0), (5, 0x7fdedb4032c0), (1, 0x7fdedb4032d0), (7, 0x7fdedb4032e0), (2, 0x7fdedb4032f0), (5, 0x0), 
+(7, 0x7fdedb4032a0), (2, 0x7fdedb4032b0), (5, 0x7fdedb4032d0), (7, 0x7fdedb4032e0), (2, 0x7fdedb4032f0), (5, 0x0), 
