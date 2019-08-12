@@ -1,0 +1,15 @@
+Ivans-MacBook-Pro-2:lab4 Carson$ ./a.out
+4
+2
+1234
+02234
+0
+true
+03468
+535568766
+41616
+Enter a dbiguint: 1234
+1234
+end
+Ivans-MacBook-Pro-2:lab4 Carson$ 
+
